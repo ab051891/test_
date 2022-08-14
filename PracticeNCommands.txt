@@ -1,3 +1,5 @@
+https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+
 git commands
 
 mkdir test_repo //creating the folder you want to make the repo
